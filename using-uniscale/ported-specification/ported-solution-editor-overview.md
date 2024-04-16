@@ -4,7 +4,7 @@ description: >-
   overview of the interface, elements and concepts.
 ---
 
-# Solution editor overview
+# PORTED- Solution editor overview
 
 ## Interface breakdown
 
@@ -104,8 +104,8 @@ The structure will grow in size as your solution develops as well.
 
 #### Want to learn more about the different terms and elements? Go to this explainer article:&#x20;
 
-{% content-ref url="../ported-specification/ported-solution-basics.md" %}
-[ported-solution-basics.md](../ported-specification/ported-solution-basics.md)
+{% content-ref url="ported-solution-basics.md" %}
+[ported-solution-basics.md](ported-solution-basics.md)
 {% endcontent-ref %}
 
 ### Functional use case functionalities&#x20;
@@ -122,8 +122,8 @@ The structure will grow in size as your solution develops as well.
 
 #### Want to learn more about the functional use cases? Go to this explainer article:&#x20;
 
-{% content-ref url="../ported-specification/ported-solution-basics.md" %}
-[ported-solution-basics.md](../ported-specification/ported-solution-basics.md)
+{% content-ref url="ported-solution-basics.md" %}
+[ported-solution-basics.md](ported-solution-basics.md)
 {% endcontent-ref %}
 
 ## Locking cycles  &#x20;
@@ -134,6 +134,6 @@ For the most relevant statuses within a revision, the interface shows a badge in
 
 #### For the full explanation of the Locking & Completion cycles, go to the article below:
 
-{% content-ref url="module-revisions.md" %}
-[module-revisions.md](module-revisions.md)
+{% content-ref url="ported-module-revisions.md" %}
+[ported-module-revisions.md](ported-module-revisions.md)
 {% endcontent-ref %}

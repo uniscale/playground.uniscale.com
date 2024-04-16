@@ -8,8 +8,8 @@
 
 * [PORTED- Specification](using-uniscale/wip-specification/README.md)
   * [PORTED- Solution basics](using-uniscale/ported-specification/ported-solution-basics.md)
-  * [Solution editor overview](using-uniscale/wip-specification/solution-editor-overview.md)
-  * [Module revisions](using-uniscale/wip-specification/module-revisions.md)
+  * [PORTED- Solution editor overview](using-uniscale/ported-specification/ported-solution-editor-overview.md)
+  * [PORTED- Module revisions](using-uniscale/ported-specification/ported-module-revisions.md)
 * [PORTED- Documentation](using-uniscale/ported-documentation/README.md)
   * [PORTED- Service basics](using-uniscale/ported-documentation/service-basics.md)
   * [PORTED- Service introduction](using-uniscale/ported-documentation/service-introduction.md)
