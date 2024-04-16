@@ -14,7 +14,7 @@
   * [Service basics](using-uniscale/ported-documentation/service-basics.md)
   * [PORTED- Service introduction](using-uniscale/ported-documentation/service-introduction.md)
   * [PORTED- Service editor overview](using-uniscale/ported-documentation/ported-service-editor-overview.md)
-  * [Service revisions](using-uniscale/ported-documentation/service-revisions.md)
+  * [(PORTED) Service revisions](using-uniscale/ported-documentation/ported-service-revisions.md)
   * [Upstream & downstream dependencies](using-uniscale/ported-documentation/upstream-and-downstream-dependencies.md)
   * [Service linking](using-uniscale/ported-documentation/service-linking.md)
 * [PORTED - Implementation](using-uniscale/ported-implementation/README.md)
