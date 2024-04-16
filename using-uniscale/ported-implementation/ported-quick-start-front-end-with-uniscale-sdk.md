@@ -1,6 +1,6 @@
-# Quick Start: Front-end with Uniscale SDK
+# (PORTED) Quick Start: Front-end with Uniscale SDK
 
-Welcome! On this page you will learn how to use the SDK with your front-end application. The tutorial uses Uniscale's Message Threads demo solution as its base. For more detailed information on the SDK, see [ported-library-implementation-basics.md](ported-library-implementation-basics.md "mention")
+Welcome! On this page you will learn how to use the SDK with your front-end application. The tutorial uses Uniscale's Message Threads demo solution as its base. For more detailed information on the SDK, see [library-implementation-basics.md](library-implementation-basics.md "mention")
 
 ## Installation
 

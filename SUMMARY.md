@@ -20,8 +20,8 @@
 * [PORTED - Implementation](using-uniscale/ported-implementation/README.md)
   * [SDK portal overview](using-uniscale/ported-implementation/sdk-portal-overview.md)
   * [Introduction to SDK](using-uniscale/ported-implementation/introduction-to-sdk.md)
-  * [(PORTED) Library implementation basics](using-uniscale/ported-implementation/ported-library-implementation-basics.md)
-  * [Quick Start: Front-end with Uniscale SDK](using-uniscale/ported-implementation/quick-start-front-end-with-uniscale-sdk.md)
+  * [(PORTED) Library implementation basics](using-uniscale/ported-implementation/library-implementation-basics.md)
+  * [(PORTED) Quick Start: Front-end with Uniscale SDK](using-uniscale/ported-implementation/ported-quick-start-front-end-with-uniscale-sdk.md)
 
 ## 🔗 Resources
 
