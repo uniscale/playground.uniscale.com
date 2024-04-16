@@ -12,7 +12,7 @@ If you have an existing project, you can replicate it in Uniscale by following t
 
 Begin by establishing your solution in Uniscale and labeling it to align with your project.
 
-Your [solution](../using-uniscale/wip-specification/solution-basics.md#solution) can be inspired by the **`"Message Threads"`** layout found within our Demo solution, serving as the initial reference point when outlining your functional specifications. See it previewed below:&#x20;
+Your [solution](../using-uniscale/ported-specification/solution-basics.md#solution) can be inspired by the **`"Message Threads"`** layout found within our Demo solution, serving as the initial reference point when outlining your functional specifications. See it previewed below:&#x20;
 
 <figure><img src="../.gitbook/assets/app.uniscale.com_8c68f0da-8a3c-45bb-abba-2b6d36aa6b3c_user_solution_fb344616-794e-4bd7-b81a-fb1e3361701f_design (1).png" alt=""><figcaption><p>A preview of the Demo solution</p></figcaption></figure>
 
@@ -37,7 +37,7 @@ Our editors support out-of-the-box copying of text styles, so you don't have to 
 
 ## 2. Add module to the solution
 
-Your [modules](../using-uniscale/wip-specification/solution-basics.md#module) will contain the main "chapters" of logic in your solution. They are sets of end-user functionality that are set and changed together.
+Your [modules](../using-uniscale/ported-specification/solution-basics.md#module) will contain the main "chapters" of logic in your solution. They are sets of end-user functionality that are set and changed together.
 
 As an inspiration, they can mirror the structure of the “Messages” module in the Demo solution, effectively categorizing similar functionalities together within its scope.&#x20;
 
@@ -59,7 +59,7 @@ Give your module a title and you are good to go.
 
 ## 3. Add pages to the module
 
-Design your [page](../using-uniscale/wip-specification/solution-basics.md#page) to match the main structure of your project. As an inspiration, check the layout you saw in our Demo solution, called the “Timeline” page.
+Design your [page](../using-uniscale/ported-specification/solution-basics.md#page) to match the main structure of your project. As an inspiration, check the layout you saw in our Demo solution, called the “Timeline” page.
 
 To add a new page, you can do so in a similar fashion to the modules, either via slash command or via inline help icons.
 
@@ -119,7 +119,7 @@ Now you have created a functional use case and are ready for the next step.
 
 ## 5. Replicate your UX flows
 
-See “List messages” as an example of the [UX flows](../using-uniscale/wip-specification/solution-basics.md#ux-flow) to be set up.
+See “List messages” as an example of the [UX flows](../using-uniscale/ported-specification/solution-basics.md#ux-flow) to be set up.
 
 Prior to adding your UX flows, best practices are to&#x20;
 
@@ -154,7 +154,7 @@ Give your UX flow a title and you are good to go.
 
 ## 6. Enrich with your acceptance criteria
 
-Set your [acceptance criteria](../using-uniscale/wip-specification/solution-basics.md#functional-acceptance-criteria) based on those chosen for your project. You can find an example of such criteria in the Demo solution within a UX flow.
+Set your [acceptance criteria](../using-uniscale/ported-specification/solution-basics.md#functional-acceptance-criteria) based on those chosen for your project. You can find an example of such criteria in the Demo solution within a UX flow.
 
 A: **Define Criteria**:
 

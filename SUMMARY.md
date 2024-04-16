@@ -6,10 +6,10 @@
 
 ## 💻 Using Uniscale
 
-* [WIP - Specification](using-uniscale/wip-specification/README.md)
-  * [Solution basics](using-uniscale/wip-specification/solution-basics.md)
-  * [Solution editor overview](using-uniscale/wip-specification/solution-editor-overview.md)
-  * [Module revisions](using-uniscale/wip-specification/module-revisions.md)
+* [PORTED- Specification](using-uniscale/ported-specification/README.md)
+  * [Solution basics](using-uniscale/ported-specification/solution-basics.md)
+  * [Solution editor overview](using-uniscale/ported-specification/solution-editor-overview.md)
+  * [Module revisions](using-uniscale/ported-specification/module-revisions.md)
 * [WIP - Documentation](using-uniscale/wip-documentation/README.md)
   * [Service basics](using-uniscale/wip-documentation/service-basics.md)
   * [Service introduction](using-uniscale/wip-documentation/service-introduction.md)
