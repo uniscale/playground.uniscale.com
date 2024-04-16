@@ -95,5 +95,5 @@ For the most relevant statuses within a revision, the interface shows a badge in
 <figure><img src="../../.gitbook/assets/CleanShot 2024-04-09 at 10.03.10.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-For a full explanation of the Completion cycle and the Locking cycles, [read more here.](ported-service-revisions.md)
+For a full explanation of the Completion cycle and the Locking cycles, [read more here.](service-revisions.md)
 {% endhint %}

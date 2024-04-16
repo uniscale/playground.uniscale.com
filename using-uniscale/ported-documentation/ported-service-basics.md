@@ -2,7 +2,7 @@
 description: Learn more about the building blocks of a service
 ---
 
-# Service basics
+# PORTED- Service basics
 
 ## Overall structure
 
@@ -55,7 +55,7 @@ Account (root level)
 
 #### Revision cycle & update cycle
 
-Namespaces are subject to the [locking/unlocking/readying](ported-service-revisions.md) process within a revision. This means that editors of a service can manage the content via each of those statuses as needed.&#x20;
+Namespaces are subject to the [locking/unlocking/readying](service-revisions.md) process within a revision. This means that editors of a service can manage the content via each of those statuses as needed.&#x20;
 
 Since Namespaces reside at the root or top levels of most of the functionality of a service, they are quite crucial so in their status at any time.
 
@@ -75,7 +75,7 @@ This type of UC is encountered and created from inside the [specification](../po
 
 In Uniscale, the main differentiation factor for the UCs is their technical intention.
 
-Functional UCs have an [<mark style="color:purple;">**`service-to-module`**</mark>](service-basics.md#technical-intentions) intention. While technical UCs have an [<mark style="color:purple;">**`service-to-service`**</mark>](service-basics.md#technical-intentions) intention. For a full breakdown of these intentions, read more [here](service-basics.md#technical-intentions)
+Functional UCs have an [<mark style="color:purple;">**`service-to-module`**</mark>](ported-service-basics.md#technical-intentions) intention. While technical UCs have an [<mark style="color:purple;">**`service-to-service`**</mark>](ported-service-basics.md#technical-intentions) intention. For a full breakdown of these intentions, read more [here](ported-service-basics.md#technical-intentions)
 
 ### Technical use cases&#x20;
 
@@ -83,7 +83,7 @@ Functional UCs have an [<mark style="color:purple;">**`service-to-module`**</mar
 
 #### Revision cycle & update cycle
 
-UCs are subject to the [locking/unlocking/readying](ported-service-revisions.md) process within a revision. This means that editors of a service can manage the content via each of those statuses as needed.&#x20;
+UCs are subject to the [locking/unlocking/readying](service-revisions.md) process within a revision. This means that editors of a service can manage the content via each of those statuses as needed.&#x20;
 
 ## Use case flows&#x20;
 
@@ -113,7 +113,7 @@ A  technical UCF contains&#x20;
 
 #### Revision cycle & update cycle
 
-UCFs are subject to the [locking/unlocking/readying](ported-service-revisions.md) process within a revision. This means that editors of a service can manage the content via each of those statuses as needed.&#x20;
+UCFs are subject to the [locking/unlocking/readying](service-revisions.md) process within a revision. This means that editors of a service can manage the content via each of those statuses as needed.&#x20;
 
 
 
@@ -176,7 +176,7 @@ Structuring your data can be done in multiple ways in Uniscale, and as such we h
 
 #### Revision cycle & update cycle
 
-Data contracts are subject to the [completion](ported-service-revisions.md) process within a revision. This means that editors of a service can manage the content via each of those statuses as needed.&#x20;
+Data contracts are subject to the [completion](service-revisions.md) process within a revision. This means that editors of a service can manage the content via each of those statuses as needed.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
