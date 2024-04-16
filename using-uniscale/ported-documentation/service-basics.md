@@ -75,7 +75,7 @@ This type of UC is encountered and created from inside the [specification](../po
 
 In Uniscale, the main differentiation factor for the UCs is their technical intention.
 
-Functional UCs have an [<mark style="color:purple;">**`service-to-module`**</mark>](ported-service-basics.md#technical-intentions) intention. While technical UCs have an [<mark style="color:purple;">**`service-to-service`**</mark>](ported-service-basics.md#technical-intentions) intention. For a full breakdown of these intentions, read more [here](ported-service-basics.md#technical-intentions)
+Functional UCs have an [<mark style="color:purple;">**`service-to-module`**</mark>](service-basics.md#technical-intentions) intention. While technical UCs have an [<mark style="color:purple;">**`service-to-service`**</mark>](service-basics.md#technical-intentions) intention. For a full breakdown of these intentions, read more [here](service-basics.md#technical-intentions)
 
 ### Technical use cases&#x20;
 

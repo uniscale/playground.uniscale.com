@@ -17,7 +17,7 @@ As a whole, a service has revisions and is approved. This is symbolized via the 
 
 
 
-Listing the structure of a service, we can have ( for a more detailed breakdown, read [here](ported-service-basics.md))
+Listing the structure of a service, we can have ( for a more detailed breakdown, read [here](service-basics.md))
 
 * namespaces
 * technical use cases

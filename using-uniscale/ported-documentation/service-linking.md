@@ -1,6 +1,6 @@
 # Service linking
 
-This article assumes that you have covered knowledge around [specification](../wip-specification/) and concepts in [service basics](ported-service-basics.md).  If not, it is recommended to follow those first to better understand this article.
+This article assumes that you have covered knowledge around [specification](../wip-specification/) and concepts in [service basics](service-basics.md).  If not, it is recommended to follow those first to better understand this article.
 
 Having a look at the following illustration, we recognize the specification elements, and individually the Services on the side of it.&#x20;
 
