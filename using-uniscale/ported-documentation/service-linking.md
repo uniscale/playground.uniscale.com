@@ -1,6 +1,6 @@
 # Service linking
 
-This article assumes that you have covered knowledge around [specification](../ported-specification/) and concepts in [service basics](service-basics.md).  If not, it is recommended to follow those first to better understand this article.
+This article assumes that you have covered knowledge around [specification](../wip-specification/) and concepts in [service basics](service-basics.md).  If not, it is recommended to follow those first to better understand this article.
 
 Having a look at the following illustration, we recognize the specification elements, and individually the Services on the side of it.&#x20;
 
@@ -24,7 +24,7 @@ In essence, creating your dependencies in your application. This is where most o
 
 ### Linking to services from solution specification
 
-As your specification grows in complexity, you will end up adding [UX flows](../ported-specification/solution-basics.md#ux-flow) within your [functional use cases](../ported-specification/solution-basics.md#functional-use-case). They act as "requirements" or "needs" of functionality towards the services.&#x20;
+As your specification grows in complexity, you will end up adding [UX flows](../ported-specification/ported-solution-basics.md#ux-flow) within your [functional use cases](../ported-specification/ported-solution-basics.md#functional-use-case). They act as "requirements" or "needs" of functionality towards the services.&#x20;
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-04-12 at 09.40.51@2x.png" alt=""><figcaption></figcaption></figure>
 

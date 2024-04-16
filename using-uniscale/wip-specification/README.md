@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# WIP - Specification
+# PORTED- Specification
 
 ### **Map your functional product specifications**
 

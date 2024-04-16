@@ -68,7 +68,7 @@ Use cases ( UC) come in two forms: <mark style="color:purple;background-color:pu
 Functional UCs paint a more general picture of how a user might interact with your business to reach their goals. Instead of focusing on technical detail, it’s a cause-and-effect description of different inputs.&#x20;
 
 {% hint style="info" %}
-This type of UC is encountered and created from inside the [specification](../ported-specification/solution-basics.md).&#x20;
+This type of UC is encountered and created from inside the [specification](../ported-specification/ported-solution-basics.md).&#x20;
 {% endhint %}
 
 

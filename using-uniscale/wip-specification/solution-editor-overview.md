@@ -46,8 +46,6 @@ At the topbar, you will find the main navigation and core functionalities such a
 
 </details>
 
-
-
 <details>
 
 <summary>Center navigation tabs </summary>
@@ -106,8 +104,8 @@ The structure will grow in size as your solution develops as well.
 
 #### Want to learn more about the different terms and elements? Go to this explainer article:&#x20;
 
-{% content-ref url="solution-basics.md" %}
-[solution-basics.md](solution-basics.md)
+{% content-ref url="../ported-specification/ported-solution-basics.md" %}
+[ported-solution-basics.md](../ported-specification/ported-solution-basics.md)
 {% endcontent-ref %}
 
 ### Functional use case functionalities&#x20;
@@ -124,8 +122,8 @@ The structure will grow in size as your solution develops as well.
 
 #### Want to learn more about the functional use cases? Go to this explainer article:&#x20;
 
-{% content-ref url="solution-basics.md" %}
-[solution-basics.md](solution-basics.md)
+{% content-ref url="../ported-specification/ported-solution-basics.md" %}
+[ported-solution-basics.md](../ported-specification/ported-solution-basics.md)
 {% endcontent-ref %}
 
 ## Locking cycles  &#x20;

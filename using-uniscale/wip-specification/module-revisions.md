@@ -7,7 +7,7 @@ description: >-
 # Module revisions
 
 {% hint style="info" %}
-This article assumes that you have covered knowledge around [specification](./) and concepts in [solution basics](solution-basics.md).  If not, it is recommended to follow those first in order to better understand this article.
+This article assumes that you have covered knowledge around [specification](./) and concepts in [solution basics](../ported-specification/ported-solution-basics.md).  If not, it is recommended to follow those first in order to better understand this article.
 {% endhint %}
 
 ## The module revision flow <a href="#the-module-revision-flow" id="the-module-revision-flow"></a>
