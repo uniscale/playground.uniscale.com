@@ -91,7 +91,7 @@ UCs are subject to the [locking/unlocking/readying](service-revisions.md) proces
 
 Use case flows represent (UCF), as the name suggests an individual flow of a certain use case. These UCFs are created in the solution modules, and exported via service linking in the service.  Their technical intention is <mark style="color:purple;">**`service-to-module.`**</mark>
 
-This process is described in detail bellow [here.](service-linking.md)
+This process is described in detail bellow [here.](ported-service-linking.md)
 
 A functional UCF contains&#x20;
 
