@@ -29,5 +29,3 @@ Simplify the creation of structured, high-quality functional product specificati
 Learn about core concepts of specification, the introduction to solution, and its&#x20;
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Solution basics</td><td><a href="../../.gitbook/assets/image (61).png">image (61).png</a></td></tr><tr><td align="center">Solution editor overview</td><td><a href="../../.gitbook/assets/image (61).png">image (61).png</a></td></tr><tr><td align="center">Module revisions</td><td><a href="../../.gitbook/assets/image (61).png">image (61).png</a></td></tr></tbody></table>
-
-Add Goals
