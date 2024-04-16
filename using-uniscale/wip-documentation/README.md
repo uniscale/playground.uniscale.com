@@ -32,13 +32,3 @@ In-depth walkthroughs of more complex concepts across our editors.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>SERVICE REVISIONS</strong></td><td><a href="../../.gitbook/assets/image (62).png">image (62).png</a></td></tr><tr><td align="center"><strong>DEPENCENCIES</strong></td><td><a href="../../.gitbook/assets/image (62).png">image (62).png</a></td></tr><tr><td align="center"><strong>SERVICE LINKING</strong></td><td><a href="../../.gitbook/assets/image (62).png">image (62).png</a></td></tr></tbody></table>
 
-## Learning goals
-
-By the end of this course, you'll have a solid understanding of:
-
-* Documentation's building blocks and structure
-* Navigating the Uniscale interface
-* The fundamentals of the Uniscale Service data model
-* Setting up your Service for your project
-
-With these building blocks in place, you'll be ready to dive deeper into Uniscale's advanced features and unlock its full potential for your team.
