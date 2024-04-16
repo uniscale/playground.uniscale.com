@@ -1,4 +1,4 @@
-# Service editor overview
+# PORTED- Service editor overview
 
 ## Interface breakdown
 
@@ -35,7 +35,7 @@ Here you will find the main navigation tabs, revisions, settings, and quick acce
 <summary>Center tabs</summary>
 
 * Functional view: all the requirements coming from the solution&#x20;
-  * Note: the tab is disabled for [Standalone service](ported-service-introduction.md)
+  * Note: the tab is disabled for [Standalone service](service-introduction.md)
 * Technical view: here you will spend most of your time modeling and breaking down your data&#x20;
 * SDK portal
 

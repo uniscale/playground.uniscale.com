@@ -193,7 +193,7 @@ A service refers to a discrete unit of functionality or capability provided by a
 Each service is defined by its inputs, outputs, behavior, and interactions with other components of the system. Describe the requirements for the underlying technical flows that will enable you to build the desired functionality.
 
 {% hint style="info" %}
-To learn more about Services, visit our detailed [guide](../ported-documentation/service-editor-overview.md)
+To learn more about Services, visit our detailed [guide](../ported-documentation/ported-service-editor-overview.md)
 {% endhint %}
 
 ***
