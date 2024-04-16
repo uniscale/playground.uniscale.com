@@ -34,4 +34,3 @@ Automatically generate technical documentation and SDKs that align perfectly wit
 
 
 
-### Add goals
