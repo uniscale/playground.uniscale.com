@@ -53,4 +53,4 @@ You can add comments to Modules, Pages, Sections, Functional Use Cases, Product 
 
 Click the comment icon on the right-hand side of your top bar and select "Show comments". The comments will appear next to your functional specifications.
 
-<figure><img src="https://lh7-eu.googleusercontent.com/87Vb3ap2gDoGEP2Nou5Xa8cAMmPPII7DxI541bWZZWIqW2Tt_CIjg3Shk5OgmzzQ0m-Fd_d1YvDdL0aemATfiYy3L3xhf8gbWZzQak7x6mzDGk9DrZocMvlAhpz8U0SSwb76OePIlVD5M7mM8HMarXE" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-eu.googleusercontent.com/87Vb3ap2gDoGEP2Nou5Xa8cAMmPPII7DxI541bWZZWIqW2Tt_CIjg3Shk5OgmzzQ0m-Fd_d1YvDdL0aemATfiYy3L3xhf8gbWZzQak7x6mzDGk9DrZocMvlAhpz8U0SSwb76OePIlVD5M7mM8HMarXE" alt=""><figcaption><p>Comments in a solution</p></figcaption></figure>
