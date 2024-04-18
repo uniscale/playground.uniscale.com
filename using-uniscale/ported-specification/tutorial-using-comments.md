@@ -7,13 +7,13 @@ description: >-
 
 # Tutorial: Using comments
 
-Comments in Uniscale serve the purpose of facilitating communication and collaboration among team members. They allow users to offer feedback, pose questions, and share insights related to specific elements within a project, including modules, pages, or functional use cases.
+Comments in Uniscale serve the purpose of facilitating communication and collaboration among team members. They allow users to offer feedback, pose questions, and share insights related to specific elements within a solution, including modules, pages, or functional use cases.
 
 
 
 ### What is the comments feature?
 
-Comments are textual messages users use to annotate and discuss different aspects of a project.&#x20;
+Comments are textual messages users use to annotate and discuss different aspects of a solution.&#x20;
 
 They may contain feedback, suggestions, questions, or clarifications about specific elements within a Solution. Furthermore, users can tag specific individuals in their comments to grab their attention or seek their input.
 
@@ -23,7 +23,7 @@ They may contain feedback, suggestions, questions, or clarifications about speci
 
 ### How can I add comments?
 
-Users can easily add comments to specific elements within a project in Uniscale. This can be accomplished through two different methods:
+Users can easily add comments to specific elements within a solution in Uniscale. This can be accomplished through two different methods:
 
 
 
