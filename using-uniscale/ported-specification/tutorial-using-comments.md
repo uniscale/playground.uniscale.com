@@ -31,17 +31,15 @@ Users can easily add comments to specific elements within a solution in Uniscale
 {% tab title="By selecting specific text" %}
 Highlight the text you want to comment on, then click “Comment”. A box will appear on the right-hand side where you can write your comment. Once you're done, simply press Send to share your comment.
 
-<figure><img src="https://lh7-eu.googleusercontent.com/Jm9XOSZzcPQrOjjVT4ZSjt5ODO7KLgO-rNKuFs63szQ17D4CigigaC1FevKWBgJTkPtWQG0yZTWoqGUQU3ttPz8Rt0YUUrUE8amPPxxso5R4tvHNsTLcHJXd4TFzsAB1UsQtF9ER0s01RBFLt7njcZ4" alt=""><figcaption><p>Add a coment through selecting  specific text</p></figcaption></figure>
+<figure><img src="https://lh7-eu.googleusercontent.com/nUrSySbsvmbzNfb_EVcT77wXqorjpCvht6NLfrhxiaSgZTn3s6CWJ4rpuO1Pz2LiYy0KpqG74Nweb3Cqp-3wn07xVUQKjCeRVgi-cjPazyYCX9xljcT9AO_6GslyVN9Um1e4dDZZMH1HneLx8qdyNf4" alt=""><figcaption><p>Add a comment by selecting text</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="By selecting the comment box" %}
+{% tab title="By selecting the comment icon" %}
 Simply click on the comment icon positioned on the right-hand side of the main section. This action will prompt a comment box to appear on the right-hand side, where you can write your comment. Once you are done, simply press “Send”.
 
-<figure><img src="https://lh7-eu.googleusercontent.com/6VfcaY2-47TKTPtTPQE-X_3tTw3zXZh3b-GoU8niLDHNjPsArjssQa5GAKIobogYsd-Jyn9NPfQ6g-73RY7jKJTdllNncYi5LnGhCIlpWKnHNl5dAU_1gWCRvxYUuvi1gLXfyBTQzKY5Jj89UI6QP7c" alt=""><figcaption><p>Add a comment by selecting the comment icon</p></figcaption></figure>
+<figure><img src="https://lh7-eu.googleusercontent.com/Vbdrecuw5aj5IF9uXhEZA3znvfpdmMah7MZQfUJ5OZSBAHQRmpzjYwb1d_Zi5KAQ9FEHwj2YBcIbnGU9JV6FJH24n2vJeJEGvXL146qyoGF47oGROOwrKRgXUARt_JvWlkNA9VXDJ3cKTfh5KEGpWIw" alt=""><figcaption><p>Add a comment by selecting the comment icon</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
 
 {% hint style="info" %}
 You can add comments to Modules, Pages, Sections, Functional Use Cases, Product and Designer Notes, UX Flows and Acceptance Criteria.
@@ -53,4 +51,4 @@ You can add comments to Modules, Pages, Sections, Functional Use Cases, Product 
 
 Click the comment icon on the right-hand side of your top bar and select "Show comments". The comments will appear next to your functional specifications.
 
-<figure><img src="https://lh7-eu.googleusercontent.com/87Vb3ap2gDoGEP2Nou5Xa8cAMmPPII7DxI541bWZZWIqW2Tt_CIjg3Shk5OgmzzQ0m-Fd_d1YvDdL0aemATfiYy3L3xhf8gbWZzQak7x6mzDGk9DrZocMvlAhpz8U0SSwb76OePIlVD5M7mM8HMarXE" alt=""><figcaption><p>Comments in a solution</p></figcaption></figure>
+<figure><img src="https://lh7-eu.googleusercontent.com/f6xpaOJgklThNJixROPAPA1iVN1SpWaPYF97_fnnPKsRL2MyrbQgJmdoj_BqwF-ebUu4S8I8pnv50nVBFx4l1pTaMtcHaQ7LdSBly3pDGQQe59hbJ81jbA88ug4SkyDB009RKr71WAg9tKKM74f6e20" alt=""><figcaption><p>Comment view in a solution</p></figcaption></figure>
