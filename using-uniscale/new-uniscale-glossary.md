@@ -16,6 +16,8 @@ This is to provide a clear definition of these terms so customers can navigate U
 
 ### Admin&#x20;
 
+**(TBA)** A user with elevated privileges who manages platform settings, user accounts, permissions, and projects.
+
 ### Aggregate
 
 A grouped collections of data elements or objects based on certain criteria are often used in databases and data analysis.&#x20;
@@ -30,19 +32,27 @@ A data characteristics or attributes, such as type, format, and structure.
 
 ### DDD Domain
 
+**(TBA)** The problem area or subject matter that the solution built in Uniscale addresses. It encompasses the core concepts and rules of a particular business or problem space. DDD focuses on understanding and modeling the domain to create software that accurately reflects real-world concepts and behaviors.
+
 ### Dependency&#x20;
 
 A list of external factors or elements that an item relies on for successful completion. In Uniscale, these are often termed "Intra-service dependencies," involving dependencies between features, covering data properties up to UI flows.
 
 ### Designer note
 
+**(TBA)** Annotations provided by the UI designer and product lead for each User Interface (UI) element. They describe the intended functionality and any constraints envisioned for that part of the UI. These notes serve as guidelines for developers and ensure consistency in implementing the UI design.
+
 ### Documentation
+
+**(TBA)** Set of written materials, guidelines, and instructions that provide information about various aspects of a project or solution. This includes technical documentation, which describes the architecture, design, and implementation details of the solution, as well as functional documentation, which outlines the features, requirements, and use cases of the project.
 
 ### Endpoints
 
 A specific function, capability, or characteristic of a product or software application. In Uniscale, a feature defines a specific instance of a function within an API, instructing a service to perform actions based on past data or retrieved information.
 
 ### Functional use case&#x20;
+
+**(TBA)** A description outlining the high-level functionality provided to the end user within a project or solution. It defines specific interactions or scenarios that users can perform to achieve desired outcomes, focusing on the functionality delivered to the user from a user's perspective
 
 ### Implementation&#x20;
 
