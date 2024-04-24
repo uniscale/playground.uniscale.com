@@ -70,7 +70,7 @@ By breaking down your specifications, you can now document your services based o
 
 This will give you a clear overview of what is needed from the services and enable you to quickly iterate on future versions.
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-04-24 at 08.45.21 (1).png" alt=""><figcaption><p>Preview of the "Account" service in the Demo solution</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-04-24 at 08.45.21 (1).png" alt=""><figcaption><p>Preview of modelling view tab for the "Account" service in the Demo solution</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
