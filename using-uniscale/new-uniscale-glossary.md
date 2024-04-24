@@ -6,7 +6,7 @@ description: >-
 
 # (NEW) Uniscale Glossary
 
-This is to provide a clear definition of these terms so customers can navigate Uniscale and clearly understand what a specific term refers to:
+The aim is to offer concise definitions for these terms, aiding customers in navigating Uniscale with clarity regarding each term's meaning
 
 
 
