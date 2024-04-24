@@ -78,7 +78,7 @@ This will give you a clear overview of what is needed from the services and enab
 
 {% tabs %}
 {% tab title="Generate SDK" %}
-After finishing your specification and documentation, generate the initial version of your SDK for developers to use in backend and frontend development. Read our article "Introduction to SDK" for more details on how to do this.
+After finishing your specification and documentation, generate the initial version of your SDK for developers to use in backend and frontend development. Read our article "[Introduction to SDK](../using-uniscale/ported-implementation/introduction-to-sdk.md)" for more details on how to do this.
 
 <figure><img src="../.gitbook/assets/app.uniscale.com_8c68f0da-8a3c-45bb-abba-2b6d36aa6b3c_user_solution_fb344616-794e-4bd7-b81a-fb1e3361701f_sdk (2).png" alt=""><figcaption><p>SDK portal as seen in the Demo Solution</p></figcaption></figure>
 {% endtab %}
