@@ -19,6 +19,7 @@
   * [PORTED- Upstream & downstream dependencies](using-uniscale/ported-documentation/upstream-and-downstream-dependencies.md)
   * [PORTED- Service linking](using-uniscale/ported-documentation/ported-service-linking.md)
   * [Validations](using-uniscale/ported-documentation/validations.md)
+  * [Properties & Terminologies](using-uniscale/ported-documentation/properties-and-terminologies.md)
 * [PORTED - Implementation](using-uniscale/ported-implementation/README.md)
   * [SDK portal overview](using-uniscale/ported-implementation/sdk-portal-overview.md)
   * [Introduction to SDK](using-uniscale/ported-implementation/introduction-to-sdk.md)
