@@ -56,7 +56,7 @@ From here, navigate to the Service Linking Tab, where you can establish connecti
 
 <figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption><p>Service Linking</p></figcaption></figure>
 
-Check out our Service Linking article for detailed guidance on how to link services.
+Check out our [Service Linking article](https://help.uniscale.com/using-uniscale/documentation/service-linking) for detailed guidance on how to link services.
 
 _Tip: Consider inviting a technical expert, such as a Lead Developer or Software Architect, to guide you as you develop your services._
 {% endtab %}
