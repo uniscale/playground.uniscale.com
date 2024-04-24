@@ -34,7 +34,7 @@ A data characteristics or attributes, such as type, format, and structure.
 
 ### DDD Domain
 
-**(TBA)** The problem area or subject matter that the solution built in Uniscale addresses. It encompasses the core concepts and rules of a particular business or problem space. DDD focuses on understanding and modeling the domain to create software that accurately reflects real-world concepts and behaviors.
+A collection of principles and patterns that help developers craft elegant object systems. Properly applied it can lead to software abstractions called domain models. These models encapsulate complex business logic, closing the gap between business reality and code.
 
 ### Dependency&#x20;
 
@@ -46,7 +46,7 @@ Annotations are provided by the UI designer and product lead for each User Inter
 
 ### Documentation
 
-**(TBA)** Set of written materials, guidelines, and instructions that provide information about various aspects of a project or solution. This includes technical documentation, which describes the architecture, design, and implementation details of the solution, as well as functional documentation, which outlines the features, requirements, and use cases of the project.
+Set of written materials, guidelines, and instructions that provide information about various aspects of a project or solution. This includes technical documentation, which describes the architecture, design, and implementation details of the solution, as well as functional documentation, which outlines the features, requirements, and use cases of the project.
 
 ### Endpoints
 
@@ -54,15 +54,15 @@ A specific function, capability, or characteristic of a product or software appl
 
 ### Functional use case&#x20;
 
-**(TBA)** A description outlining the high-level functionality provided to the end user within a project or solution. It defines specific interactions or scenarios that users can perform to achieve desired outcomes, focusing on the functionality delivered to the user from a user's perspective
+A description outlining the high-level functionality provided to the end user within a project or solution. It defines specific interactions or scenarios that users can perform to achieve desired outcomes, focusing on the functionality delivered to the user from a user's perspective
 
 ### Implementation
 
-**(TBA)** Implementation in Uniscale refers to the process of translating design specifications and functional requirements into actual functionality within a project or solution. It involves generating libraries and SDKs based on the defined specifications.
+Implementation in Uniscale refers to the process of translating design specifications and functional requirements into actual functionality within a project or solution. It involves generating libraries and SDKs based on the defined specifications.
 
 ### Module
 
-**(CP from HC)** A functionally isolated part of the software that has distinct ownership over its functionality and revision lifecycle.&#x20;
+A functionally isolated part of the software that has distinct ownership over its functionality and revision lifecycle.&#x20;
 
 ### Namespaces&#x20;
 
@@ -78,7 +78,7 @@ A targeted subject area of a computer program, used in software engineering. In 
 
 ### Product&#x20;
 
-**(TBA)**  A tangible or intangible item, service, or deliverable that is being developed, managed, or tracked within the platform. It could represent a software application, a feature set, a project deliverable, or any other entity that is the focus of work or collaboration within Uniscale.
+A tangible or intangible item, service, or deliverable that is being developed, managed, or tracked within the platform. It could represent a software application, a feature set, a project deliverable, or any other entity that is the focus of work or collaboration within Uniscale.
 
 ### Property&#x20;
 
@@ -94,7 +94,7 @@ The action of revising. Revisions are iterative copies of the previous version w
 
 ### SDK Languages&#x20;
 
-**(TBA)** SDK languages refer to the programming languages supported for the development of software development kits (SDKs).
+SDK languages refer to the programming languages supported for the development of software development kits (SDKs).
 
 ### SDK Library
 
@@ -110,7 +110,7 @@ A type of software component or function that performs specific tasks or operati
 
 ### Service flow&#x20;
 
-(**TBA)** A sequence of steps involved in creating, deploying, and managing a service within a project. It outlines tasks such as defining functionality, configuring properties, and testing the service.
+A sequence of steps involved in creating, deploying, and managing a service within a project. It outlines tasks such as defining functionality, configuring properties, and testing the service.
 
 ### Solution&#x20;
 
@@ -122,7 +122,7 @@ A detailed document outlining specific requirements, features, behaviors, and co
 
 ### Technical intentions&#x20;
 
-**(TBA)** Specific goals, objectives, or requirements related to the technical aspects of a project or solution. These intentions typically encompass the desired functionality, performance characteristics, architectural design, and implementation details that the development team aims to achieve.
+Specific goals, objectives, or requirements related to the technical aspects of a project or solution. These intentions typically encompass the desired functionality, performance characteristics, architectural design, and implementation details that the development team aims to achieve.
 
 ### UI flow&#x20;
 
@@ -134,7 +134,7 @@ A detailed description or scenario illustrating how a system, software applicati
 
 ### Use case flow&#x20;
 
-**(TBA)** The steps users take to accomplish a task or achieve a goal within a project or solution. It details user inputs, system responses, and any conditions or branching logic involved in the process.
+The steps users take to accomplish a task or achieve a goal within a project or solution. It details user inputs, system responses, and any conditions or branching logic involved in the process.
 
 ### User&#x20;
 
@@ -142,7 +142,7 @@ A detailed description or scenario illustrating how a system, software applicati
 
 ### UX flow&#x20;
 
-**(TBA)** A roadmap showing the journey users take as they navigate through a software application. It lays out the sequence of steps and screens users encounter, providing insight into how they interact with the app.
+A roadmap showing the journey users take as they navigate through a software application. It lays out the sequence of steps and screens users encounter, providing insight into how they interact with the app.
 
 ### Value object&#x20;
 
