@@ -42,7 +42,7 @@ A list of external factors or elements that an item relies on for successful com
 
 ### Designer note
 
-**(TBA)** Annotations provided by the UI designer and product lead for each User Interface (UI) element. They describe the intended functionality and any constraints envisioned for that part of the UI. These notes serve as guidelines for developers and ensure consistency in implementing the UI design.
+Annotations are provided by the UI designer and product lead for each User Interface (UI) element. They describe the intended functionality and any constraints envisioned for that part of the UI.&#x20;
 
 ### Documentation
 
