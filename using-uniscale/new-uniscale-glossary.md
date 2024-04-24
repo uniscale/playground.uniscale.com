@@ -22,7 +22,7 @@ A user with elevated privileges who manages platform settings, user accounts, pe
 
 ### Aggregate
 
-A grouped collections of data elements or objects based on certain criteria are often used in databases and data analysis.&#x20;
+A grouped collection of data elements or objects based on certain criteria often used in databases and data analysis.&#x20;
 
 ### Bounded context&#x20;
 
