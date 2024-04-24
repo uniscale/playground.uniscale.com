@@ -18,7 +18,7 @@ predefined conditions or standards that must be met for a UX flow to be consider
 
 ### Admin&#x20;
 
-**(TBA)** A user with elevated privileges who manages platform settings, user accounts, permissions, and projects.
+A user with elevated privileges who manages platform settings, user accounts, permissions, and projects.
 
 ### Aggregate
 
