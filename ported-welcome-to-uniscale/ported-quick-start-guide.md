@@ -1,4 +1,4 @@
-# PORTED- Quick start guide
+# PORTED - Quick start guide
 
 **Welcome to Uniscale!**&#x20;
 
@@ -39,12 +39,26 @@ Within your workspace, create a solution to describe your product and outline th
 Check out our article on how to[ Get started with a solution](https://help.uniscale.com/using-uniscale/specification/get-started-with-a-solution) for more details.
 {% endtab %}
 
-{% tab title="Define functional specifications" %}
+{% tab title="Write functional specifications" %}
 Clearly outline what your project needs and how it should work, providing a roadmap for development available to all stakeholders.&#x20;
 
 Check the [Get started with a module](https://help.uniscale.com/using-uniscale/specification/get-started-with-a-module) article for more details on how to write your functional specifications
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Write your functional specifications</p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Link your services" %}
+This is where you start to document your services.&#x20;
+
+Within the UX flows in your Solution, the process of linking your services begins by selecting "Service Flow."&#x20;
+
+From here, navigate to the Service Linking Tab, where you can establish connections between your UX flows (integral components of your Solution) and newly developed services, thereby initiating your service journey.
+
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption><p>Service Linking</p></figcaption></figure>
+
+Check out our Service Linking article for detailed guidance on how to link services.
+
+_Tip: Consider inviting a technical expert, such as a Lead Developer or Software Architect, to guide you as you develop your services._
 {% endtab %}
 {% endtabs %}
 
@@ -56,7 +70,7 @@ By breaking down your specifications, you can now document your services based o
 
 This will give you a clear overview of what is needed from the services and enable you to quickly iterate on future versions.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Conceptual visualisation of the functional needs towards services</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-04-24 at 08.45.21 (1).png" alt=""><figcaption><p>Preview of the "Account" service in the Demo solution</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -64,7 +78,7 @@ This will give you a clear overview of what is needed from the services and enab
 
 {% tabs %}
 {% tab title="Generate SDK" %}
-After finishing your specification and documentation, generate the initial version of your SDK for developers to use in backend and frontend development.
+After finishing your specification and documentation, generate the initial version of your SDK for developers to use in backend and frontend development. Read our article "Introduction to SDK" for more details on how to do this.
 
 <figure><img src="../.gitbook/assets/app.uniscale.com_8c68f0da-8a3c-45bb-abba-2b6d36aa6b3c_user_solution_fb344616-794e-4bd7-b81a-fb1e3361701f_sdk (2).png" alt=""><figcaption><p>SDK portal as seen in the Demo Solution</p></figcaption></figure>
 {% endtab %}

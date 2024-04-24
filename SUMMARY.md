@@ -2,7 +2,7 @@
 
 * [PORTED- Welcome to Uniscale!](README.md)
   * [PORTED- How to replicate your project](ported-welcome-to-uniscale/ported-how-to-replicate-your-project.md)
-  * [PORTED- Quick start guide](ported-welcome-to-uniscale/ported-quick-start-guide.md)
+  * [PORTED - Quick start guide](ported-welcome-to-uniscale/ported-quick-start-guide.md)
 
 ## 💻 Using Uniscale
 
