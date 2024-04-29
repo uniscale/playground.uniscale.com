@@ -25,7 +25,7 @@
   * [Introduction to SDK](using-uniscale/ported-implementation/introduction-to-sdk.md)
   * [(PORTED) Library implementation basics](using-uniscale/ported-implementation/library-implementation-basics.md)
   * [(PORTED) Quick Start: Front-end with Uniscale SDK](using-uniscale/ported-implementation/ported-quick-start-front-end-with-uniscale-sdk.md)
-* [(NEW) Uniscale Glossary](using-uniscale/new-uniscale-glossary.md)
+* [🟨 Dictionary](using-uniscale/dictionary.md)
 
 ## 🔗 Resources
 
