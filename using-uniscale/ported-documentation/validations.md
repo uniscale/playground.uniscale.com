@@ -55,9 +55,27 @@ The above example applies to the _**string**_ validation but the other validatio
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-04-23 at 16.21.29.png" alt=""><figcaption><p>Date validation shows type options as Before date, After date &#x26; Between dates. </p></figcaption></figure>
 
+With regards to the date time validations,  we have extra options as seen below that are helpful if in need of more refined date time validation.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-15 at 11.53.57.png" alt=""><figcaption><p>Date time validation with interval type Fixed date window</p></figcaption></figure>
+
+In the above screenshot, expanded options for date and time validation ensure inputs meet specific criteria. You can specify a date range, enforce a specific format, and apply conditional logic, such as checking if a date falls on a weekday. These features provide robust flexibility for precise data validation in forms or applications, ensuring data integrity and consistency.
 
 
-3. The third a nd last option _**Validation options**_ adds a few extra options besides the Restriction option as seen in the second option. The extra options when selected are also applied to the property as seen below.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-15 at 11.55.18.png" alt=""><figcaption><p>Date time validation with interval type Floating date window</p></figcaption></figure>
+
+The screenshot above offers an in-depth look at advanced date and time validation options available within the platform. These options extend beyond simple date restrictions to provide a higher degree of control and specificity. Users can define date ranges to ensure inputs fall within a particular timeframe, enforce specific date and time formats to maintain consistency, and apply sophisticated conditional logic—such as requiring that a date be a weekday or excluding holidays. The floating date window does not have a specific or fixed day, week, month or year with time in regards to the range selection.&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-15 at 11.53.57.png" alt=""><figcaption><p>Interval type Fixed date window with optional time window</p></figcaption></figure>
+
+The screenshot above demonstrates the advanced date and time validation options available. Users can define specific date ranges, enforce particular date and time formats, and apply conditional logic such as ensuring a date falls on a weekday or excluding holidays. The floating date window feature allows for a flexible range selection without fixed days, weeks, months, or years.
+
+
+
+3. The third and last option _**Validation options**_ adds a few extra options besides the Restriction option as seen in the second option. The extra options when selected are also applied to the property as seen below.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-04-23 at 15.55.20.png" alt="" width="371"><figcaption></figcaption></figure>
 
