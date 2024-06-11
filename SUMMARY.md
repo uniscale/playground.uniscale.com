@@ -3,7 +3,6 @@
 * [PORTED- Welcome to Uniscale!](README.md)
   * [PORTED- How to replicate your project](ported-welcome-to-uniscale/ported-how-to-replicate-your-project.md)
   * [PORTED - Quick start guide](ported-welcome-to-uniscale/ported-quick-start-guide.md)
-* [KK draft: Quick start guide](kk-draft-quick-start-guide.md)
 
 ## 💻 Using Uniscale
 
@@ -31,3 +30,14 @@
 ## 🔗 Resources
 
 * [Template: Help Center article](resources/template-help-center-article.md)
+
+***
+
+* [Draft: Quick start guide](draft-quick-start-guide.md)
+
+## Tutorial / How to
+
+* [High level specification](tutorial-how-to/high-level-specification.md)
+* [Detailed specification](tutorial-how-to/detailed-specification.md)
+* [High level documentation](tutorial-how-to/high-level-documentation.md)
+* [Detailed documentation](tutorial-how-to/detailed-documentation.md)

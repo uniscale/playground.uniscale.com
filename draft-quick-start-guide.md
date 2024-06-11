@@ -2,11 +2,11 @@
 description: Get an overview of the overall steps to get started with Uniscale.
 ---
 
-# KK draft: Quick start guide
+# Draft: Quick start guide
+
+## New to Uniscale?&#x20;
 
 {% hint style="info" %}
-New to Uniscale?&#x20;
-
 Get a quick overview and watch our video here: [.](./ "mention")
 {% endhint %}
 
@@ -15,7 +15,7 @@ Get a quick overview and watch our video here: [.](./ "mention")
 ### Get started <a href="#get-started" id="get-started"></a>
 
 {% hint style="success" %}
-Before kick-starting your Uniscale journey you should have:
+Before kick-starting your Uniscale journey you should:
 
 1. [Create an account](https://help.uniscale.com/account-and-preferences/create-an-account)
 2. [Create a workspace](https://help.uniscale.com/workspace-administration/manage-workspaces/create-a-workspace)
@@ -23,12 +23,6 @@ Before kick-starting your Uniscale journey you should have:
 
 When this is done, you are ready to follow the guide below on how to build better software!
 {% endhint %}
-
-
-
-## Uniscale Method&#x20;
-
-<figure><img src=".gitbook/assets/CleanShot 2024-06-11 at 11.11.12.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -48,7 +42,7 @@ Typically included:
 * High level business requirements..
 * Abstract description of your solution.
 
-Learn more: [#design-your-solution](kk-draft-quick-start-guide.md#design-your-solution "mention")
+Learn more: [#design-your-solution](draft-quick-start-guide.md#design-your-solution "mention")
 
 
 
