@@ -4,9 +4,17 @@ description: Get an overview of the overall steps to get started with Uniscale.
 
 # KK draft: Quick start guide
 
+{% hint style="info" %}
+New to Uniscale?&#x20;
+
+Get a quick overview and watch our video here: [.](./ "mention")
+{% endhint %}
+
+
+
 ### Get started <a href="#get-started" id="get-started"></a>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Before kick-starting your Uniscale journey you should have:
 
 1. [Create an account](https://help.uniscale.com/account-and-preferences/create-an-account)
